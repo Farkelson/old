@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Computer Science/src/cs1410/P4files.java&apos; to &apos; TextAnalysis.java&apos;" description="Rename resource &apos;P4files.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/cs1410/P4files.java" name=" TextAnalysis.java" stamp="1348116617082" updateReferences="true"/>
+</session>

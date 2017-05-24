@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numALength&apos; in &apos;galaxyQuest.GalaxyQuest.main(...)&apos; to &apos;dimAStar&apos;&#x0D;&#x0A;- Original project: &apos;CS4150&apos;&#x0D;&#x0A;- Original element: &apos;galaxyQuest.GalaxyQuest.main(String[]).numALength&apos;&#x0D;&#x0A;- Renamed element: &apos;numALength&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numALength&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;galaxyQuest{GalaxyQuest.java[GalaxyQuest~main~\[QString;@numALength!253!291!262!271!\[QString;!0!false" name="dimAStar" references="true" stamp="1486251316112" version="1.0"/>
+</session>

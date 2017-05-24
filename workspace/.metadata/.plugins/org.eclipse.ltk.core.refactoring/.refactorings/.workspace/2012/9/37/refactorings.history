@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Computer Science/src/cs1410/file.txt&apos;" deleteContents="false" description="Delete resource &apos;Computer Science/src/cs1410/file.txt&apos;" element1="/Computer Science/src/cs1410/file.txt" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1347468333308"/>
+</session>

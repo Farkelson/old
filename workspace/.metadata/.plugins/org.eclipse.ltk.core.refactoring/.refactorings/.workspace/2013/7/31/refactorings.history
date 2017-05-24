@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;CS2420Assignments/src/assignment10/GenerateTextFile.java&apos;" deleteContents="false" description="Delete resource &apos;CS2420Assignments/src/assignment10/GenerateTextFile.java&apos;" element1="/CS2420Assignments/src/assignment10/GenerateTextFile.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1375310229485"/>
+</session>

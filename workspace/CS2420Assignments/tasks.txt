@@ -1,0 +1,10 @@
+I2S_read B 2
+mem_check A 2
+user_comm C 1
+pcu_check A 3
+sci_read B 4
+prog_exec C 3
+I2C_read B 1
+sys_check A 1
+prog_init C 2
+spi_read B 3

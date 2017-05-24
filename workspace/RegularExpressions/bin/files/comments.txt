@@ -1,0 +1,6 @@
+This line /* contains a comment */
+This line does not contain a comment
+This line contains /* the beginning
+of a comment but the end doesn't come
+for a few more */ lines
+This /* line */ contains /* two */ comments

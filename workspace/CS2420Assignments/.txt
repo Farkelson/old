@@ -1,0 +1,37 @@
+User string: 
+
+Created 0 deletion alternatives
+
+Created 0 transposition alternatives
+
+Created 0 substitution alternatives
+
+Insertion string: a
+Insertion string: b
+Insertion string: c
+Insertion string: d
+Insertion string: e
+Insertion string: f
+Insertion string: g
+Insertion string: h
+Insertion string: i
+Insertion string: j
+Insertion string: k
+Insertion string: l
+Insertion string: m
+Insertion string: n
+Insertion string: o
+Insertion string: p
+Insertion string: q
+Insertion string: r
+Insertion string: s
+Insertion string: t
+Insertion string: u
+Insertion string: v
+Insertion string: w
+Insertion string: x
+Insertion string: y
+Insertion string: z
+Created 26 insertion alternatives
+
+TOTAL: generated 26 alternative spellings!

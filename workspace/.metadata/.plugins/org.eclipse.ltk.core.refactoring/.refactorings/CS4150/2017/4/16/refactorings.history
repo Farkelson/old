@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;l&apos; in &apos;spidermanWorkout.SpidermanWorkout.main(...)&apos; to &apos;delta&apos;&#x0D;&#x0A;- Original project: &apos;CS4150&apos;&#x0D;&#x0A;- Original element: &apos;spidermanWorkout.SpidermanWorkout.main(String[]).l&apos;&#x0D;&#x0A;- Renamed element: &apos;l&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;l&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;spidermanWorkout{SpidermanWorkout.java[SpidermanWorkout~main~\[QString;@l!2644!2653!2648!2648!I!0!false" name="delta" references="true" stamp="1492480148332" version="1.0"/>
+</session>

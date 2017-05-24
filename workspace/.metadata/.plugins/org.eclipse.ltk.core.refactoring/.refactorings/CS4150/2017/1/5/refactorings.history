@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;bst&apos; in &apos;ceiling.BinarySearchTree.BinaryNode.isSameTree(...)&apos; to &apos;binNode&apos;&#x0D;&#x0A;- Original project: &apos;CS4150&apos;&#x0D;&#x0A;- Original element: &apos;ceiling.BinarySearchTree.BinaryNode.isSameTree(BinaryNode).bst&apos;&#x0D;&#x0A;- Renamed element: &apos;bst&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;bst&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ceiling{BinarySearchTree.java[BinarySearchTree[BinaryNode~isSameTree~QBinaryNode;@bst!4619!4632!4630!4632!QBinaryNode;!0!true" name="binNode" references="true" stamp="1485756637732" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CS2420Assignments/src/assignment10/SpellCorection.java&apos; to &apos;SpellingCorrection.java&apos;" description="Rename resource &apos;SpellCorection.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/assignment10/SpellCorection.java" name="SpellingCorrection.java" stamp="1374971783341" updateReferences="true"/>
+</session>
